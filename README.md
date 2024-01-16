@@ -4,7 +4,7 @@ This repository contains a React application developed with Typescript and Vite.
 
 ## Live Demo
 
-You can view a live demo of the project [here](https://wbdv.netlify.app/login).
+You can view a live demo of the project [here](https://wbdv.netlify.app).
 
 ## Application Configuration
 
